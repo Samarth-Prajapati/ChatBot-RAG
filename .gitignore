@@ -20,3 +20,5 @@ project_logs/
 .vscode/
 .idea/
 *.iml
+
+testing_documents/
