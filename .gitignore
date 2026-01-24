@@ -22,3 +22,5 @@ project_logs/
 *.iml
 
 testing_documents/
+
+vectordb/
