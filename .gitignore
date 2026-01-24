@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenvs
+.venv/
+venv/
+env/
+*.env
+
+# Poetry
+poetry.lock
+
+# Logs
+logs/
+project_logs/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
