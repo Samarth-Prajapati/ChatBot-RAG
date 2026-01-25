@@ -6,3 +6,4 @@ from .embeddings import hf_embeddings
 from .vector_db import get_or_create_chroma
 from .retriever import get_retriever
 from .rag import RAG
+from .data_ingestion import supported_file_loaders
